@@ -1,6 +1,7 @@
 ``
-Windows Temelleri``
-	Windows Dosya Sistemleri,
+	Windows Temelleri``
+	
+ 	Windows Dosya Sistemleri,
  
 	Dizin Yapısı,
  
